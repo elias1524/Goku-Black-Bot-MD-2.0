@@ -1,4 +1,3 @@
-
 import fetch from 'node-fetch';
 export async function before(m, { conn }) {
    let pp = await this.profilePictureUrl(m.sender, 'image').catch(_ => 'https://i.ibb.co/1ZxrXKJ/avatar-contact.jpg');
@@ -40,7 +39,7 @@ export async function before(m, { conn }) {
         mediaType: 'VIDEO',
         description: 'canal del grupo',
         title: packname,
-        body: 'Canal de GokuBlack',
+        body: 'Canal de FG98',
         thumbnailUrl: pp,
         sourceUrl: fgcanal
       }
@@ -92,9 +91,9 @@ export async function before(m, { conn }) {
       externalAdReply: {
         mediaUrl: fgig,
         mediaType: 'VIDEO',
-        description: '',
+        description: 'Sigueme por Instagram',
         title: 'Instagram',
-        body: '',
+        body: 'sigueme por Instagram',
         thumbnailUrl: pp,
         sourceUrl: fgig
       }
@@ -115,8 +114,8 @@ export async function before(m, { conn }) {
         mediaUrl: fgyt,
         mediaType: 'VIDEO',
         description: 'Suscribete: ' + fgyt,
-        title: '',
-        body: '',
+        title: 'FG YouTube',
+        body: 'aprende a crear tus propios bots',
         thumbnailUrl: pp,
         sourceUrl: fgyt
       }

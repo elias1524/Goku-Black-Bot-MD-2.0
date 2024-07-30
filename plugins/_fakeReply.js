@@ -92,9 +92,9 @@ export async function before(m, { conn }) {
       externalAdReply: {
         mediaUrl: fgig,
         mediaType: 'VIDEO',
-        description: 'Sigueme por Instagram',
+        description: '',
         title: 'Instagram',
-        body: 'sigueme por Instagram',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgig
       }
@@ -115,8 +115,8 @@ export async function before(m, { conn }) {
         mediaUrl: fgyt,
         mediaType: 'VIDEO',
         description: 'Suscribete: ' + fgyt,
-        title: 'GB YouTube',
-        body: 'aprende a crear tus propios bots',
+        title: '',
+        body: '',
         thumbnailUrl: pp,
         sourceUrl: fgyt
       }

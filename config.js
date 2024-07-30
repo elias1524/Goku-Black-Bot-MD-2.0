@@ -33,7 +33,7 @@ global.fglog = 'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png'
 
 //--- Grupos WA
 global.id_canal = '120363276986902836@newsletter' //-ID de canal de WhatsApp
-global.fgcanal = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
+global.gkcanal = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
 global.bgp = 'https://chat.whatsapp.com/Igsky5kNI7cDMsBJU6gcKB'
 global.bgp2 = 'https://chat.whatsapp.com/Igsky5kNI7cDMsBJU6gcKB'
 global.bgp3 = 'https://chat.whatsapp.com/Igsky5kNI7cDMsBJU6gcKB' 

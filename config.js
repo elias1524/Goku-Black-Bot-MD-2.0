@@ -4,11 +4,10 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['595972157130', '👑Ivan - Creador👑', true],
-  ['5491168352204']
-] //Numeros de owner 
+  ['593939005387'], 'JOSTIN', true]] 
 
-global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.mods = ['595972157130'] 
+global.prems = ['595972157130', '']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',

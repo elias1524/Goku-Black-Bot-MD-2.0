@@ -40,7 +40,7 @@ export async function before(m, { conn }) {
         mediaType: 'VIDEO',
         description: 'canal del grupo',
         title: packname,
-        body: 'Canal de FG98',
+        body: 'Canal de GokuBlack',
         thumbnailUrl: pp,
         sourceUrl: fgcanal
       }
@@ -115,7 +115,7 @@ export async function before(m, { conn }) {
         mediaUrl: fgyt,
         mediaType: 'VIDEO',
         description: 'Suscribete: ' + fgyt,
-        title: 'FG YouTube',
+        title: 'GB YouTube',
         body: 'aprende a crear tus propios bots',
         thumbnailUrl: pp,
         sourceUrl: fgyt

@@ -2,11 +2,13 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk' 
 import { fileURLToPath } from 'url' 
 
-global.owner = [['595972157130', '👑Ivan - Creador👑', true],
-['593939005387']] 
+global.owner = [
+  ['595972157130', '👑Ivan - Creador👑', true],
+  ['593939005387']
+] //Numeros de owner 
 
-global.mods = ['595972157130'] 
-global.prems = ['595972157130', '']
+global.mods = [''] 
+global.prems = ['50489079501', '573143917092']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',

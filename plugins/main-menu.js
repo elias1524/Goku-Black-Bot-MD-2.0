@@ -29,8 +29,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *GOKUBLACK  ┃ BOT* ━━━━━ ◈
- 
+*GOKU-BLACK-BOT-MD*
 👋🏻 Hola! *%name*
 👥 Usuarios : %totalreg
 🟢 Tiempo activo : %muptime
